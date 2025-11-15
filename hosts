@@ -1,0 +1,19 @@
+# Title: Deanne/hosts
+# Description: Custom blocklist created by Christian Dave
+# Date: 15 November 2025 (UTC)
+# Number of unique domains: 8
+#
+# ===============================================================
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+# Custom blocked domains below
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 ytimg.com
+0.0.0.0 iskolardrt.site
+0.0.0.0 www.iskolardrt.site
+0.0.0.0 pesolink.site
+0.0.0.0 www.pesolink.site
